@@ -1,0 +1,10 @@
+{
+  "maps": [
+    {
+      "name_kr": "오리건",
+      "name_en": "Oregon",
+      "enabled": true,
+      "image": "images/oregon.jpg"
+    }
+  ]
+}
